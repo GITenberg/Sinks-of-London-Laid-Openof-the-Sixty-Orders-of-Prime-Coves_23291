@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23291#Sinks-of-London-Laid-Openof-the-Sixty-Orders-of-Prime-Coves
 gutenberg_issued: '2007-11-02'
 gutenberg_type: Text
 identifiers:
